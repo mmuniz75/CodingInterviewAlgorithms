@@ -157,10 +157,10 @@ public class MovieNight2 {
 
 }
 
-class Movie2 {
+class Movie {
     private Date start, end;
 
-    public Movie2(Date start, Date end) {
+    public Movie(Date start, Date end) {
         this.start = start;
         this.end = end;
     }
